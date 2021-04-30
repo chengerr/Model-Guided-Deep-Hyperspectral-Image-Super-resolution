@@ -1,6 +1,8 @@
 # MoG-DCN
-This repository contains the Pytorch codes of paper "Model-Guided Deep Hyperspectral Image Super-resolution"  
-**using sf=8 and trined /tested on CAVE as an example ,I will introduce the usage of this code**
+This repository contains the Pytorch codes of paper "Model-Guided Deep Hyperspectral Image Super-resolution"   
+
+**Using sf=8 and trined /tested on CAVE as an example ,I will introduce the usage of this code**  
+
 ## Prepare the training data and the test data   
    1) Divide the dataset for training and testing respectively
    2) put training data and testing data in .mat format in corresponding folders
