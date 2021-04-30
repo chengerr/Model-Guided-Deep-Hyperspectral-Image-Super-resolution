@@ -1,4 +1,4 @@
-# MoG-DCN-
+# MoG-DCN
 Code of paper "Model-Guided Deep Hyperspectral Image Super-resolution"  
 
 1. Prepare the training data and the test data  
