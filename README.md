@@ -3,8 +3,9 @@ This repository contains the Pytorch codes of paper "Model-Guided Deep Hyperspec
 
 ## Prepare the training data and the test data   
    1) Divide the dataset for training and testing respectively
-   put CAVE
-   run creat_pathlist.py to create *.txt ,for example './pathlist/datalist_NSSR_P.txt'
+   2) put training data and testing data in .mat format in corresponding folders
+   3) run creat_pathlist.py to create *.txt ,for example './pathlist/datalist_NSSR_P.txt'
+   4) By the way , you can change the Data reading method by changing ./*/clean_dataset.py
 ## train 
    Run ./sf_8_CAVE/train.py
 ## test    
